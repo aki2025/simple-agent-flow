@@ -11,6 +11,9 @@ The Agent decides which tool to use to solve a problem.
 
 <img width="425" alt="image" src="https://github.com/user-attachments/assets/60231e34-307a-4e06-8d2d-aaa4c74545b7" />
 
+
+![image](https://github.com/user-attachments/assets/d76e556c-b960-4210-8954-35953096bdd6)
+
 use cases of AI agents across various industries and domains:
 ![image](https://github.com/user-attachments/assets/60e6f85a-f0e6-4207-ad86-c54df3804ec4)
 
